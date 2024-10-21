@@ -23,3 +23,12 @@ GPT-4o mini based Chatbot model:
 The model training code is available at Gpt4o_Mini.ipynb
 
 The live link is running at https://group3-usd.streamlit.app/
+
+Documents
+=========
+All the documents are available at the Documents Directory
+
+Video Presentation:
+==================
+Video presentation on this repository is available at 
+https://youtu.be/KKSgcqg9Sxs
