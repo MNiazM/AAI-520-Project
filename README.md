@@ -12,10 +12,12 @@ CornFlanT5_Trainer.ipynb trains the model. This code has been developed in googl
 The Cornell Movie Dialog Corpus is expected at ../Data/Cornell Directory
 
 CornFlanT5_Chatbot.ipynb runs the chatbot with the trained model files
-Trained model files are expected at ./flan_t5B_cornell_150k
+Trained model files are loaded to the hugging face repository 'mniazm/t5cornel150k'
+The trained model is loaded from the above repository and the chatbot interface will use this model. 
 
-Trained model files are stored in this repository with the directory name "flan_t5B_cornell_150k"
-This directory requires an additional file by name model.safetensors which can be accessed from the following google drive link. 
+Additionally, trained model files are stored in this repository with the directory name "flan_t5B_cornell_150k"
+One of the large size file needs to be added to the directory to complete the trained model by name model.safetensors
+which can be accessed from the following google drive link. 
 https://drive.google.com/file/d/1URi9vWjrh2Dyb3B-31bUWngro_5Sb4Qe/view?usp=sharing
 
 GPT-4o mini based Chatbot model:
